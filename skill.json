@@ -1,0 +1,13 @@
+{
+  "name": "genpark-timestamp-ordering-tso-concurrency-skill",
+  "version": "1.0.0",
+  "description": "Timestamp Ordering (TSO) concurrency controller applying Thomas Write Rule to enforce serializability across conflicting read/write requests.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "tso",
+    "timestamp-ordering",
+    "serializability",
+    "concurrency-control"
+  ]
+}
